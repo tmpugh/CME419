@@ -1,0 +1,60 @@
+* {
+    padding:0;
+    margin:0;
+}
+header {
+    background-color:papayawhip;
+    text-align:center;
+}
+
+footer {
+    background-color:papayawhip;
+    text-align:center;
+    margin-top:400px;
+}
+
+nav li, footer li {
+    display:inline-block;
+    padding:10px 25px;
+}
+
+form {
+    background-color:lightgrey;
+    width:350px;
+    margin:20px;
+    padding:25px;
+    border-radius:10px;
+}
+
+label {
+    text-align:right;
+    display:inline-block;
+    width:100px;
+    vertical-align:top;
+    padding-bottom:6px
+}
+
+#gender {
+    text-align:left;
+    width:50px;
+}
+
+#submit {
+    position:relative;
+    top:10px;
+    left:105px;
+}
+
+#array {
+    position:absolute;
+    left:480px;
+    top:55px;
+}
+
+#array h2, h3 {
+    padding:15px 0 0 0;
+}
+
+#array ul {
+    padding:15px 0 0 45px;
+}
