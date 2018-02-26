@@ -58,3 +58,18 @@ label {
 #array ul {
     padding:15px 0 0 45px;
 }
+
+table {
+    border:1px solid black;
+    border-collapse:collapse;
+    margin:40px;
+}
+
+td, th {
+    border:1px solid black;
+    padding:5px 10px;
+}
+
+.sportsArray {
+    margin:25px;
+}
